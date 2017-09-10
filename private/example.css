@@ -1,12 +1,16 @@
-body{
-	font-family:Arial,Verdana,sans-serif;}
+h1{
+		position : fixed;
+		top: 0px;
+		left : 0px;
+		padding : 10px;
+		margin : 0px;
+		width : 100%;
+		background-color: #efefef;
 
-h1,h2{
-color:#ee3e80;}
-
-a:hover{
-background-color : #333333;}
-
-a:active{
-	background-color : chocolate;
+}
+p{
+	position : relative;
+}
+p.example{
+	margin-top : 100px;
 }
